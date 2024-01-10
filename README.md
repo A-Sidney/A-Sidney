@@ -1,6 +1,6 @@
 - Name: Sidney
 - Interests: Inventing cool gadgets and stuff
-- Age: 18
+- Age: 19
 - Gender: Male
 - Current status: still learning the ropes of git and github
 - Programming languages: C++, lua
